@@ -1,4 +1,3 @@
 FROM MAIN222 f2
-as2d f
 dd2dcherry
 sss
